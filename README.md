@@ -1,5 +1,5 @@
-# Hi 👋, I'm pavankumarpethari 
-A passionate Full stack developer from srikalahasti
+# Hi 👋, I'm pavankumar.p
+A passionate [Full stack developer from India]
 
 - 🔭 I’m currently working on **[Your Projects or Focus Area]**
 - 🌱 I’m currently learning **[Skills/Technologies]**
