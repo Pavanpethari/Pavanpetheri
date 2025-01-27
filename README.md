@@ -1,5 +1,5 @@
 # Hi 👋, I'm pavankumar.p
-A passionate [Full stack developer from India]
+A passionate **[Full stack developer from India]**
 
 - 🔭 I’m currently working on **[social media influence or Yotube]**
 - 🌱 I’m currently learning **[Skills/Technologies]**
