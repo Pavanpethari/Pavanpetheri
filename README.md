@@ -1,8 +1,8 @@
 # Hi 👋, I'm pavankumar.p
 A passionate **Full stack developer from India**
 
-- 🔭 I’m currently working on **social media influence **
-- 🌱 I’m currently learning ** Java full stack developer **
+- 🔭 I’m currently working on **social media Influencer**
+- 🌱 I’m currently learning ** Java full stack Developer**
 - 👯 I’m looking to collaborate on **Full Stack Developers**
 - 💬 Ask me about **HTML CSS PYTHON**
 - 📫 How to reach me **pavankumarpethari@gmail.com**
