@@ -1,11 +1,11 @@
 # Hi 👋, I'm pavankumar.p
-A passionate **[Full stack developer from India]**
+A passionate **Full stack developer from India**
 
-- 🔭 I’m currently working on **[social media influence or Yotube]**
-- 🌱 I’m currently learning **[Skills/Technologies]**
+- 🔭 I’m currently working on **social media influence or Yotube**
+- 🌱 I’m currently learning **java full stack developer **
 - 👯 I’m looking to collaborate on **[Full Stack Developers]**
-- 💬 Ask me about **[HTML CSS PYTHON]**
-- 📫 How to reach me **[pavankumarpethari@gmail.com]**
+- 💬 Ask me about **HTML CSS PYTHON**
+- 📫 How to reach me **pavankumarpethari@gmail.com**
 
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pavanpethari)
